@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning React
+- ⚡ Fun fact: I love playing TCGs, currently playing Disney Lorcana
+  
 <!--
 **kevintran-dev/kevintran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
