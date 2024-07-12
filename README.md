@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Rust!
 - ⚡ Fun fact: I love playing TCGs, currently playing Disney Lorcana
   
 <!--
